@@ -1,0 +1,3 @@
+The var() function in CSS is used to insert the value of a custom property (also known as a CSS variable) into a stylesheet. Custom properties are defined using the -- prefix, and can be used to store values that can be reused throughout a stylesheet.
+
+The purpose of using var() is to make it easy to maintain and update stylesheets by allowing you to define a value in one place and use it throughout the stylesheet. This can be especially useful for things like branding colors, font sizes, and spacing values.
